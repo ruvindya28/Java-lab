@@ -18,22 +18,22 @@ public class Mcq {
 
      //4.	Which of these is a mechanism for naming and visibility control of a class and its content?
        //a) Object	     b) Packages              c) Interfaces	         d) None of the Mentioned.
-answer=d
+//answer=d
 
      //5.	Which of the following is correct way of importing an entire package ‘pkg’?
      //a) import pkg.	     b) Import pkg.            c) import pkg.*	         d) Import pkg.*
-    answer=c
+    //answer=c
 
 
      //6.	Which of these method of class String is used to extract a single character from a String object?
      //a) CHARAT()	       b) charat()        c) charAt()	         d) CharAt()
 
-    answer=c
+   // answer=c
 
      //7.	Which of these method of class String is used to obtain length of String object?
     //   a) get()	       b) Sizeof()         c) lengthof()	          d) length()
 
-    answer=d
+    //answer=d
     
     }
 }
